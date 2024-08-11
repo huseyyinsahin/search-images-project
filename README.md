@@ -1,2 +1,2 @@
-HTML - CSS - BootStrap - JavaScript <br>
+HTML - CSS - Bootstrap - JavaScript <br>
 https://huseyyinsahin.github.io/search-images-project/
