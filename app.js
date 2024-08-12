@@ -26,7 +26,7 @@ setTimeout(() => {
 /*          verileri getirme          */
 const show = async (newInput = "istanbul", newNumberOfImages = "10") => {
   cardDiv.innerHTML = `<img src="./img/loading.gif"/>`;
-  const url = `https://pixabay.com/api/?key=45224779-712f943f3d7c809209751790f&q=${newInput}&image_type=photo&pretty=true&per_page=${newNumberOfImages}&page=${
+  const url = `https://pixabay.com/api/?key=45403325-649eb5390fd1e8713ec02cf00&q=${newInput}&image_type=photo&pretty=true&per_page=${newNumberOfImages}&page=${
     Math.floor(Math.random() * 10) + 1
   }`;
 
